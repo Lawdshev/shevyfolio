@@ -86,12 +86,12 @@ export const data = [
         github: 'https://github.com/Lawdshev/page',
         img: page
     },
-    {
-        title: 'Wardboard(vpn needed)',
-        demo: 'https://wardbord.com/',
-        github: 'N/A',
-        img: wardboard
-    },
+//     {
+//         title: 'Wardboard(vpn needed)',
+//         demo: 'https://wardbord.com/',
+//         github: 'N/A',
+//         img: wardboard
+//     },
     {
         title: 'Approve-it ',
         demo: 'https://approve-it.onrender.com/',
