@@ -12,6 +12,7 @@ import wardboard from '../assets/wardboard.jpg';
 import approveit from '../assets/approve-it (2).PNG';
 import unshelled from './portfolio_img/unshelled.PNG';
 import page from './portfolio_img/page.PNG';
+import examinator from './portfolio_img/examiner.PNG';
 
 export const data = [
     {
@@ -86,16 +87,22 @@ export const data = [
         github: 'https://github.com/Lawdshev/page',
         img: page
     },
-    {
-        title: 'Wardboard(vpn needed)',
-        demo: 'https://wardbord.com/',
-        github: 'N/A',
-        img: wardboard
-    },
+    // {
+    //     title: 'Wardboard(vpn needed)',
+    //     demo: 'https://wardbord.com/',
+    //     github: 'N/A',
+    //     img: wardboard
+    // },
     {
         title: 'Approve-it ',
         demo: 'https://approve-it.onrender.com/',
         github: 'https://github.com/Lawdshev/ApproveIT',
         img: approveit
+    },
+    {
+        title: 'Examinator',
+        demo: 'https://examinator.netlify.app',
+        github: 'https://github.com/Lawdshev/Examinator',
+        img: examinator
     }
 ]
